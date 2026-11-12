@@ -1,6 +1,7 @@
 # Laboratory 3 – Solar Flare X-ray Image Reconstruction using CLEAN
 
-![alt text](cleanloop-1.png)
+<img width="1897" height="523" alt="cleanloop" src="https://github.com/user-attachments/assets/9e9da842-fc9c-481f-969b-96f4fdbe7f8a" />
+
 
 Authors: Di Via & Hiller-Szala
 
